@@ -2,7 +2,7 @@
 
 WHAT IS THE PROBLEM?
 
-Neonatal sepsis is a significant cause of neonatal death and has been a major challenge worldwide. The difficulty in early diagnosis of neonatal sepsis leads to delay in treatment. The early diagnosis of neonatal sepsis has been predicted to improve neonatal outcomes. The use of machine learning techniques with the relevant screening parameters provides new ways of understanding neonatal sepsis and having possible solutions to tackle the challenges it presents.
+Neonatal sepsis is a significant cause of neonatal death and has been a major challenge worldwide. The difficulty in early diagnosis of neonatal sepsis leads to delays in treatment. The early diagnosis of neonatal sepsis has been predicted to improve neonatal outcomes. The use of machine learning techniques with the relevant screening parameters provides new ways of understanding neonatal sepsis and having possible solutions to tackle the challenges it presents.
 
 PROPOSED SOLUTION
 
