@@ -10,4 +10,4 @@ This work proposes an algorithm for predicting neonatal sepsis using electronic 
 
 RESULTS
 
-The results of this study show that the proposed algorithm outperformed the physician diagnosis. The study provides evidence that the combination of maternal risk factors, neonatal clinical signs, and laboratory tests effectively diagnose neonatal sepsis.
+The results of this study show that the proposed algorithm outperformed the physician diagnosis. The study provides evidence that the combination of maternal risk factors, neonatal clinical signs, and laboratory tests can effectively diagnose neonatal sepsis.
